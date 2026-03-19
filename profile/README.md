@@ -6,9 +6,5 @@
 
 ![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexmangini&show_icons=true) ![alexmangini](https://github-readme-streak-stats.herokuapp.com/?user=alexmangini&)
 ![LeoGopal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leogopal&show_icons=true) ![leogopal](https://github-readme-streak-stats.herokuapp.com/?user=leogopal&)
-
-Passion of https://github.com/alexmangini and https://github.com/leogopal
-
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=leogopal&cover_image=true&theme=default)
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=alexmangini&cover_image=true&theme=default)
+![Gaurav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wpgaurav&show_icons=true) ![wpgaurav](https://github-readme-streak-stats.herokuapp.com/?user=wpgaurav&)
 
